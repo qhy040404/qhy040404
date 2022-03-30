@@ -19,7 +19,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Steam](https://img.shields.io/badge/-Steam-000000?logo=steam&logoColor=white&style=flat-square)](https://steamcommunity.com/id/qhy7490)
-[![Epic](https://img.shields.io/badge/-Epic-#313131?logo=epicgames&logoColor=white&style=flat-square)]()
+[![Epic](https://img.shields.io/badge/-Epic-313131?logo=epicgames&logoColor=white&style=flat-square)]()
 [![GOG](https://img.shields.io/badge/-GOG%20Galaxy-000000?logo=gogdotcom&logoColor=white&style=flat-square)]()
 [![Ubi](https://img.shields.io/badge/-Ubisoft%20Connect-000000?logo=ubisoft&logoColor=white&style=flat-square)]()
 
