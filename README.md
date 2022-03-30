@@ -29,7 +29,7 @@
 - ![C++](https://img.shields.io/badge/-C++-00599c?logo=cplusplus&logoColor=white&style=flat-square)
 - ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white&style=flat-square)
 - Learning / To learn
-  - ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat-square)
+  - ![C#](https://img.shields.io/badge/-C%23%20%2F%20C%20Sharp-239120?logo=csharp&logoColor=white&style=flat-square)
   - ![JS](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat-square)
 
 ## 统计数据 / Stats
