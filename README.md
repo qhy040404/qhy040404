@@ -19,6 +19,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Steam](https://img.shields.io/badge/-Steam-000000?logo=steam&logoColor=white&style=flat-square)](https://steamcommunity.com/id/qhy7490)
+![Epic](Res/SVG/epicgames.svg)
+
+
 
 ## 统计数据 / Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/qhy040404)
