@@ -4,7 +4,7 @@
 
 ## 简介 / Summary
 - 老废物的github首页
-- 写的东西向来的要求都是能用就行（:dog:头保命）
+- 写的东西向来的要求都是能用就行（狗头保命）
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Blog](https://img.shields.io/badge/-Blog-21759b?logo=wordpress&logoColor=white&style=flat-square)](http://110.40.165.70)
@@ -28,7 +28,7 @@
 ## 主要编程语言 / Main Programming Language
 - ![C++](https://img.shields.io/badge/-C++-00599c?logo=cplusplus&logoColor=white&style=flat-square)
 - ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white&style=flat-square)
-- Learning / To learn
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning / To learn
   - ![C#](https://img.shields.io/badge/-C%23%20%2F%20C%20Sharp-239120?logo=csharp&logoColor=white&style=flat-square)
   - ![JS](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat-square)
 
