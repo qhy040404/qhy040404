@@ -1,6 +1,8 @@
 # Hello World
 
-## 简介
+> 天上星河转，人间帘幕垂
+
+## 简介 / Summary
 - 老废物的github首页
 - 写的东西向来的要求都是能用就行（:dog:头保命）
 
@@ -10,7 +12,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/qhy040404)
 [![Bili](https://img.shields.io/badge/-Bilibili-fb7299?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/297469854)
 
-## 喜欢的东西
+## 喜欢的东西 / Things I like
 - 老二刺猿了
 - Musics (Especially virtual singers)
   - VOCALOID（这个很久没摸了）
@@ -23,6 +25,12 @@
 [![GOG](https://img.shields.io/badge/-GOG%20Galaxy-000000?logo=gogdotcom&logoColor=white&style=flat-square)](https://qhy040404.github.io/game)
 [![Ubi](https://img.shields.io/badge/-Ubisoft%20Connect-000000?logo=ubisoft&logoColor=white&style=flat-square)](https://qhy040404.github.io/game)
 
+## 主要编程语言 / Main Programming Language
+- ![C++](https://img.shields.io/badge/-C++-00599c?logo=cplusplus&logoColor=white&style=flat-square)
+- ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white&style=flat-square)
+- Learning / To learn
+  - ![C#](https://img.shields.io/badge/-C#%20%2F%20C%20Sharp-239120?logo=csharp&logoColor=white&style=flat-square)
+  - ![JS](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat-square)
 
 ## 统计数据 / Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/qhy040404)
