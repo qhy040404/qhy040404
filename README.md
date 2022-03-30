@@ -2,11 +2,11 @@
 
 > 天上星河转，人间帘幕垂
 
-## 简介 / Summary
+## 简介 / Introduction
 - 老废物的github首页
 - 写的东西向来的要求都是能用就行（狗头保命）
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [![Blog](https://img.shields.io/badge/-Blog-21759b?logo=wordpress&logoColor=white&style=flat-square)](http://110.40.165.70)
 [![Github](https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=flat-square)](https://github.com/qhy040404)
 [![Github Pages](https://img.shields.io/badge/-GitHub%20Pages-black?logo=GitHubpages&style=flat-square)](https://qhy040404.github.io)
