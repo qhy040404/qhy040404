@@ -19,8 +19,8 @@
   - [歌单](https://music.apple.com/cn/playlist/just-my-favorite/pl.u-8aAVZglHWya2xM)
     > 平时也就瞎听听（甚至说平时我自己都没听这个歌单doge）
   - 虚拟歌姬  
-    - VOCALOID（这个很久没摸了）![VOCALOID](Res/Photo/VandSV/VOCALOID.modified.png)
-    - Synthesizer V（SVyyds）![SynthV](Res/Photo/VandSV/svstudio.modified.png)
+    - VOCALOID（这个很久没摸了）
+    - Synthesizer V（SVyyds）
 - Games
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
