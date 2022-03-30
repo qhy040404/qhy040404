@@ -16,9 +16,9 @@
 - 老二刺猿了
 - Musics (Especially virtual singers)
   - VOCALOID（这个很久没摸了）
-    - ![VOCALOID](Res/Photo/VandSV/VOCALOID.png)
+    - ![VOCALOID](Res/Photo/VandSV/VOCALOID.modified.png)
   - Synthesizer V（SVyyds）
-    - ![SynthV](Res/Photo/VandSV/svstudio.png)
+    - ![SynthV](Res/Photo/VandSV/svstudio.modified.png)
 - Games
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
