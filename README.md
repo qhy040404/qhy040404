@@ -15,8 +15,8 @@
 ## 喜欢的东西 / Things I like
 - 老二刺猿了
 - Musics (Especially virtual singers)
-  - ![VOCALOID](Res/Photo/VOCALOID.png)VOCALOID（这个很久没摸了）
-  - ![SynthV](Res/Photo/svstudio.png)Synthesizer V（SVyyds）
+  - ![VOCALOID](Res/Photo/VandSV/VOCALOID.png)VOCALOID（这个很久没摸了）
+  - ![SynthV](Res/Photo/VandSV/svstudio.png)Synthesizer V（SVyyds）
 - Games
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
