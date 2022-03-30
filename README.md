@@ -16,8 +16,9 @@
   - VOCALOID（这个很久没摸了）
   - Synthesizer V（SVyyds）
 - Games
-  
-  [![Steam](https://img.shields.io/badge/-Steam-000000?logo=bilibili&logoColor=white&style=flat-square)](https://steamcommunity.com/id/qhy7490)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Steam](https://img.shields.io/badge/-Steam-000000?logo=bilibili&logoColor=white&style=flat-square)](https://steamcommunity.com/id/qhy7490)
 
 ## 统计数据 / Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/qhy040404)
