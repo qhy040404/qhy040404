@@ -15,11 +15,12 @@
 
 ## 喜欢的东西 / Things I like
 - 老二刺猿了
-- Musics (Especially virtual singers)
-  - VOCALOID（这个很久没摸了）
-  > ![VOCALOID](Res/Photo/VandSV/VOCALOID.modified.png)
-  - Synthesizer V（SVyyds）
-  > ![SynthV](Res/Photo/VandSV/svstudio.modified.png)
+- Music
+  - [歌单](https://music.apple.com/cn/playlist/just-my-favorite/pl.u-8aAVZglHWya2xM)
+    > 平时也就瞎听听
+  - 虚拟歌姬  
+    - VOCALOID（这个很久没摸了）![VOCALOID](Res/Photo/VandSV/VOCALOID.modified.png)
+    - Synthesizer V（SVyyds）![SynthV](Res/Photo/VandSV/svstudio.modified.png)
 - Games
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
