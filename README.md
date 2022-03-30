@@ -11,7 +11,12 @@
 [![Bili](https://img.shields.io/badge/-Bilibili-fb7299?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/297469854)
 
 ## 喜欢的东西
-- 老二刺猿了 
+- 老二刺猿了
+- Musics (Especially virtual singers)
+  - VOCALOID（这个很久没摸了）
+  - Synthesizer V（SVyyds）
+- Games
+  - [![Steam](https://img.shields.io/badge/-Steam-000000?logo=bilibili&logoColor=white&style=flat-square)](https://steamcommunity.com/id/qhy7490)
 
 ## 统计数据 / Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/qhy040404)
