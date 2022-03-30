@@ -19,8 +19,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Steam](https://img.shields.io/badge/-Steam-000000?logo=steam&logoColor=white&style=flat-square)](https://steamcommunity.com/id/qhy7490)
-![Epic](Res/SVG/epicgames.svg)
-
+[![Epic](https://img.shields.io/badge/-Epic-000000?logo=epicgames&logoColor=white&style=flat-square)]()
 
 
 ## 统计数据 / Stats
