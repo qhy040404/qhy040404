@@ -39,10 +39,3 @@
 ## 统计数据 / Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide=contribs&locale=cn)](https://github.com/qhy040404)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=445&locale=cn)](https://github.com/qhy040404)
-
-<a href="https://github.com/qhy040404">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide=contribs&locale=cn" />
-</a>
-<a href="https://github.com/qhy040404">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=445&locale=cn" />
-</a>
