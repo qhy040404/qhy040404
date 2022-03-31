@@ -37,6 +37,6 @@
   - ![JS](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat-square)
 
 ## 统计数据 / Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/qhy040404)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark)](https://github.com/qhy040404)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark&locale=cn)](https://github.com/qhy040404)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&locale=cn)](https://github.com/qhy040404)
 # 
