@@ -5,6 +5,7 @@
 ## 简介 / Introduction
 - 老废物的github首页
 - 写的东西向来的要求都是能用就行（狗头保命）
+- 和同学一起写的东西在[这里](https://github.com/Two-Super-Boss)
 
 &nbsp;&nbsp;
 [![Blog](https://img.shields.io/badge/-Blog-21759b?logo=wordpress&logoColor=white&style=flat-square)](http://110.40.165.70)
