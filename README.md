@@ -1,11 +1,11 @@
 # Hello World:wave:
 
-> ÌìÉÏĞÇºÓ×ª£¬ÈË¼äÁ±Ä»´¹
+> å¤©ä¸Šæ˜Ÿæ²³è½¬ï¼Œäººé—´å¸˜å¹•å‚
 
-## ¼ò½é / Introduction
-- ÀÏ·ÏÎïµÄgithubÊ×Ò³
-- Ğ´µÄ¶«Î÷ÏòÀ´µÄÒªÇó¶¼ÊÇÄÜÓÃ¾ÍĞĞ£¨¹·Í·±£Ãü£©
-- ºÍÍ¬Ñ§Ò»ÆğĞ´µÄ¶«Î÷ÔÚ[ÕâÀï](https://github.com/Two-Super-Boss)
+## ç®€ä»‹ / Introduction
+- è€åºŸç‰©çš„githubé¦–é¡µ
+- å†™çš„ä¸œè¥¿å‘æ¥çš„è¦æ±‚éƒ½æ˜¯èƒ½ç”¨å°±è¡Œï¼ˆç‹—å¤´ä¿å‘½ï¼‰
+- å’ŒåŒå­¦ä¸€èµ·å†™çš„ä¸œè¥¿åœ¨[è¿™é‡Œ](https://github.com/Two-Super-Boss)
 
 &nbsp;&nbsp;
 [![Blog](https://img.shields.io/badge/-Blog-21759b?logo=wordpress&logoColor=white&style=flat-square)](http://110.40.165.70)
@@ -14,14 +14,14 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/qhy040404)
 [![Bili](https://img.shields.io/badge/-Bilibili-fb7299?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/297469854)
 
-## Ï²»¶µÄ¶«Î÷ / Things I like
-- ÀÏ¶ş´ÌÔ³ÁË
+## å–œæ¬¢çš„ä¸œè¥¿ / Things I like
+- è€äºŒåˆºçŒ¿äº†
 - Music
-  - [¸èµ¥](https://music.apple.com/cn/playlist/just-my-favorite/pl.u-8aAVZglHWya2xM)
-    > Æ½Ê±Ò²¾ÍÏ¹ÌıÌı£¨ÉõÖÁËµÆ½Ê±ÎÒ×Ô¼º¶¼Ã»ÌıÕâ¸ö¸èµ¥doge£©
-  - ĞéÄâ¸è¼§  
-    - VOCALOID£¨Õâ¸öºÜ¾ÃÃ»ÃşÁË£©
-    - Synthesizer V£¨SVyyds£©
+  - [æ­Œå•](https://music.apple.com/cn/playlist/just-my-favorite/pl.u-8aAVZglHWya2xM)
+    > å¹³æ—¶ä¹Ÿå°±çå¬å¬ï¼ˆç”šè‡³è¯´å¹³æ—¶æˆ‘è‡ªå·±éƒ½æ²¡å¬è¿™ä¸ªæ­Œå•dogeï¼‰
+  - è™šæ‹Ÿæ­Œå§¬  
+    - VOCALOIDï¼ˆè¿™ä¸ªå¾ˆä¹…æ²¡æ‘¸äº†ï¼‰
+    - Synthesizer Vï¼ˆSVyydsï¼‰
 - Games
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,13 +30,14 @@
 [![GOG](https://img.shields.io/badge/-GOG%20Galaxy-000000?logo=gogdotcom&logoColor=white&style=flat-square)](https://qhy040404.github.io/game)
 [![Ubi](https://img.shields.io/badge/-Ubisoft%20Connect-000000?logo=ubisoft&logoColor=white&style=flat-square)](https://qhy040404.github.io/game)
 
-## Ö÷Òª±à³ÌÓïÑÔ / Main Programming Language
+## ä¸»è¦ç¼–ç¨‹è¯­è¨€ / Main Programming Language
 - ![C++](https://img.shields.io/badge/-C++-00599c?logo=cplusplus&logoColor=white&style=flat-square)
 - ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white&style=flat-square)
 - Learning / To learn
   - ![C#](https://img.shields.io/badge/-C%23%20%2F%20C%20Sharp-239120?logo=csharp&logoColor=white&style=flat-square)
   - ![JS](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat-square)
 
-## Í³¼ÆÊı¾İ / Stats
+## ç»Ÿè®¡æ•°æ® / Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark&locale=cn)](https://github.com/qhy040404)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=445&locale=cn)](https://github.com/qhy040404)
