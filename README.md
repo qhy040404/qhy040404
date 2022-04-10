@@ -19,6 +19,7 @@
 - Music
   - [歌单](https://music.apple.com/cn/playlist/just-my-favorite/pl.u-8aAVZglHWya2xM)
     > 平时也就瞎听听（甚至说平时我自己都没听这个歌单doge）
+    > Last Update: 2022/4/8
   - 虚拟歌姬  
     - VOCALOID（这个很久没摸了）
     - Synthesizer V（SVyyds）
