@@ -1,5 +1,11 @@
 # Hello World:wave:
 
+<p align="center">
+  <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@qhy040404?theme=gelbooru" /></a>
+  <br />
+  PV (Since 2022)
+</p>
+
 > 天上星河转，人间帘幕垂
 
 ## 简介 / Introduction
