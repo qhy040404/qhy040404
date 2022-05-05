@@ -41,18 +41,21 @@ jobs:
       - name: Validate Go
         uses: actions/setup-go@v3
 
-      - name: Clone and run waka-box
+      - name: Clone and build waka-box
         run: |
           git clone https://github.com/YouEclipse/waka-box-go.git
           cd waka-box-go && go build -o waka ./cmd/box/main.go
           mv ./waka ../ && cd .. && rm -rf waka-box-go/
 
+      - name: Run waka-box
+        shell: sh
+        run: |
+          ./waka
+
       - name: Commit changes
         shell: sh
         run: |
           set -eu
-
-          ./waka
 
           git add README.md
 

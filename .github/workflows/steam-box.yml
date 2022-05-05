@@ -40,18 +40,21 @@ jobs:
       - name: Validate Go
         uses: actions/setup-go@v3
 
-      - name: Clone and run steam-box
+      - name: Clone and build steam-box
         run: |
           git clone https://github.com/YouEclipse/steam-box.git
           cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
 
+      - name: Run steam-box
+        shell: sh
+        run: |
+          ./steam
+
       - name: Commit changes
         shell: sh
         run: |
           set -eu
-
-          ./steam
 
           git add README.md
 
