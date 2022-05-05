@@ -48,6 +48,6 @@
   - ![Swift](https://img.shields.io/badge/-Swift-808080?logo=swift&logoColor=white&style=flat-square):真学不会（网络请求部分）
 
 ## 统计数据 / Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&card_width=450&theme=dark)](https://sourcerer.io/qhy040404)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=450&langs_count=10)](https://sourcerer.io/qhy040404)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://sourcerer.io/qhy040404)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=448&langs_count=10)](https://sourcerer.io/qhy040404)
 ![Genshin Card](https://genshin-card.getloli.com/rand/318490747.png)
