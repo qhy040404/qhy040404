@@ -48,6 +48,11 @@
 ## 杂数据 / Other Stats
 ![Genshin Card](https://genshin-card.getloli.com/rand/318490747.png)
 <!-- waka-box start -->
+📊 Weekly development breakdown
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 <!-- steam-box start -->
 <!-- steam-box end -->
