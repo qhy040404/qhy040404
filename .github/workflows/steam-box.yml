@@ -32,7 +32,7 @@ jobs:
 
       - name: Clone and run steam-box
         run: |
-          git clone https://github.com/YouEclipse/steam-box.git 
+          git clone https://github.com/YouEclipse/steam-box.git
           cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
 
