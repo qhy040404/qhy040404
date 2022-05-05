@@ -27,6 +27,8 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v3.0.2
+        with:
+          token: ${{ secrets.QHYBOT_GITHUB_TOKEN }}
 
       - name: Validate Go
         uses: actions/setup-go@v3
@@ -42,10 +44,19 @@ jobs:
         with:
           gpg_private_key: ${{ secrets.QHYBOT_GPG_PRIVATE_KEY }}
 
-      - name: Commit and push
+      - name: Commit changes
+        shell: sh
         run: |
           ./waka
-          git config --global user.email "104984534+qhyBot@users.noreply.github.com" && git config --global user.name "qhyBot"
-          git diff
-          git add README.md && git commit -m ":memo: Update profile" || exit 0
-          git pull && git push
+
+          git add README.md
+
+          if ! git diff --cached --quiet; then
+              git commit -m ":memo: Update profile"
+          fi
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.QHYBOT_GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
