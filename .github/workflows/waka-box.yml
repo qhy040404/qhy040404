@@ -30,6 +30,14 @@ jobs:
         with:
           token: ${{ secrets.QHYBOT_GITHUB_TOKEN }}
 
+      - name: Import GPG key for signing
+        uses: crazy-max/ghaction-import-gpg@v4.4.0
+        with:
+          gpg_private_key: ${{ secrets.QHYBOT_GPG_PRIVATE_KEY }}
+          git_config_global: true
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+
       - name: Validate Go
         uses: actions/setup-go@v3
 
@@ -39,17 +47,11 @@ jobs:
           cd waka-box-go && go build -o waka ./cmd/box/main.go
           mv ./waka ../ && cd .. && rm -rf waka-box-go/
 
-      - name: Import GPG key for signing
-        uses: crazy-max/ghaction-import-gpg@v4.4.0
-        with:
-          gpg_private_key: ${{ secrets.QHYBOT_GPG_PRIVATE_KEY }}
-          git_config_global: true
-          git_user_signingkey: true
-          git_commit_gpgsign: true
-
       - name: Commit changes
         shell: sh
         run: |
+          set -eu
+
           ./waka
 
           git add README.md
