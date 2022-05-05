@@ -44,6 +44,7 @@ jobs:
       - name: Commit and push
         run: |
           ./steam
+          git config --global user.email "104984534+qhyBot@users.noreply.github.com" && git config --global user.name "qhyBot"
           git diff
           git add README.md && git commit -m ":memo: Update profile" || exit 0
           git pull && git push

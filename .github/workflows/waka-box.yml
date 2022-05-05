@@ -37,6 +37,11 @@ jobs:
           cd waka-box-go && go build -o waka ./cmd/box/main.go
           mv ./waka ../ && cd .. && rm -rf waka-box-go/
 
+      - name: Import GPG key for signing
+        uses: crazy-max/ghaction-import-gpg@v4.4.0
+        with:
+          gpg_private_key: ${{ secrets.QHYBOT_GPG_PRIVATE_KEY }}
+
       - name: Commit and push
         run: |
           ./waka
