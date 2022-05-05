@@ -10,7 +10,7 @@
 [![XC](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white&style=flat-square)](https://developer.apple.com/xcode/)
 
 [![mi11](https://img.shields.io/badge/Xiaomi-11-FF6900?logo=xiaomi&logoColor=white&style=flat-square)](https://www.mi.com/mi11)
-[![ipp](https://img.shields.io/badge/iPad-Pro%2011%27-000000?logo=apple&logoColor=white&style=flat-square)](https://www.mi.com/mi11)
+[![ipp](https://img.shields.io/badge/iPad-Pro%2011%27-000000?logo=apple&logoColor=white&style=flat-square)](https://www.apple.com/ipad-pro/)
 
 
 ## 简介 / Introduction
