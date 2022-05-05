@@ -54,7 +54,7 @@ jobs:
           git add README.md
 
           if ! git diff --cached --quiet; then
-              git commit -m ":memo: Update profile"
+              git commit -m "Update profile"
           fi
 
       - name: Push changes
