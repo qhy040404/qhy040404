@@ -72,7 +72,6 @@
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-
 <!-- steam-box end -->
 
 [Powered by steam-box](https://github.com/YouEclipse/steam-box)
