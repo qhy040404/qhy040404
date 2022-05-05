@@ -64,7 +64,6 @@
 <td valign="top" width="50%">
 
 <!-- waka-box start -->
-
 <!-- waka-box end -->
 
 [Powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
