@@ -35,11 +35,15 @@ jobs:
           git clone https://github.com/YouEclipse/steam-box.git
           cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
+          
+      - name: Import GPG key for signing
+        uses: crazy-max/ghaction-import-gpg@v4.4.0
+        with:
+          gpg_private_key: ${{ secrets.QHYBOT_GPG_PRIVATE_KEY }}
 
       - name: Commit and push
         run: |
           ./steam
-          git config --global user.email "104984534+qhyBot@users.noreply.github.com" && git config --global user.name "qhyBot"
           git diff
           git add README.md && git commit -m ":memo: Update profile" || exit 0
           git pull && git push
