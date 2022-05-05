@@ -47,6 +47,11 @@
 
 ## 杂数据 / Other Stats
 ![Genshin Card](https://genshin-card.getloli.com/rand/318490747.png)
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
@@ -54,6 +59,12 @@ Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
+
+[Powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
+
+</td>
+<td valign="top" width="50%">
+
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
@@ -65,3 +76,9 @@ Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+
+[Powered by steam-box](https://github.com/YouEclipse/steam-box)
+
+</td>
+</tr>
+</table>
