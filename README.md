@@ -2,6 +2,17 @@
 
 > 天上星河转，人间帘幕垂
 
+[![macOS](https://img.shields.io/badge/macOS-Monterey-292e33?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/monterey/)
+[![Windows](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/windows-11)
+
+[![AS](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square)](https://developer.android.com/studio)
+[![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/)
+[![XC](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white&style=flat-square)](https://developer.apple.com/xcode/)
+
+[![mi11](https://img.shields.io/badge/Xiaomi-11-FF6900?logo=xiaomi&logoColor=white&style=flat-square)](https://www.mi.com/mi11)
+[![ipp](https://img.shields.io/badge/iPad-Pro%2011%27-000000?logo=apple&logoColor=white&style=flat-square)](https://www.mi.com/mi11)
+
+
 ## 简介 / Introduction
 - 老废物的github首页
 - 写的东西向来的要求都是能用就行（狗头保命）
@@ -12,7 +23,7 @@
 ## 喜欢的东西 / Things I like
 - 老二刺猿了
 - Music
-  - [歌单](https://music.apple.com/cn/playlist/just-my-favorite/pl.u-8aAVZglHWya2xM)
+  - [![am](https://img.shields.io/badge/Apple%20Music-歌单-FA243C?logo=applemusic&logoColor=white&style=flat-square)](https://music.apple.com/cn/playlist/just-my-favorite/pl.u-8aAVZglHWya2xM)
     > 平时也就瞎听听（甚至说平时我自己都没听这个歌单doge）
     > 
     > Last Update: 2022/4/20
