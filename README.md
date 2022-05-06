@@ -81,7 +81,15 @@ XML      🕓 2 mins       ▎░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-
+🎮 Steam playtime leaderboard
+```text
+🔫 Counter-Strike: Global Offensive 🕘 299 hrs 17 mins
+🎮 Forza Horizon 5                  🕘 275 hrs 42 mins
+🚓 Grand Theft Auto V               🕘 223 hrs 22 mins
+💻 Wallpaper Engine                 🕘 106 hrs 53 mins
+🎮 Two Point Hospital               🕘 27 hrs 14 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 [Powered by steam-box](https://github.com/YouEclipse/steam-box)
