@@ -11,6 +11,7 @@ on:
 jobs:
   build:
     name: Update-waka-stats
+    if: ${{ github.actor != 'qhyBot' }}
     runs-on: ubuntu-latest
     env:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}

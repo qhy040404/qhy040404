@@ -9,6 +9,7 @@ on:
 jobs:
   build:
     name: Update-Steam-Playtime
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
