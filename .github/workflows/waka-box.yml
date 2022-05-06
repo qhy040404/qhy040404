@@ -73,7 +73,7 @@ jobs:
 
   Skipped:
     name: Skipped
-    if: ${{ github.actor != 'qhyBot' }}
+    if: ${{ github.actor == 'qhyBot' }}
     runs-on: ubuntu-latest
     steps:
       - run: echo 'Skipped (Pushed by Bot)'
