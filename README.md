@@ -59,7 +59,7 @@
 ## 杂数据 / Other Stats
 ![Genshin Card](https://genshin-card.getloli.com/rand/318490747.png)
 
-<table width="500px">
+<table>
 <tr>
 <td valign="top" width="50%">
 
