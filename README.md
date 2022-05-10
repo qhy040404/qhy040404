@@ -83,7 +83,7 @@ Kotlin     🕓 29 mins      █▍░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 302 hrs 32 mins
+🔫 Counter-Strike: Global Offensive 🕘 302 hrs 35 mins
 🎮 Forza Horizon 5                  🕘 275 hrs 42 mins
 🚓 Grand Theft Auto V               🕘 223 hrs 22 mins
 💻 Wallpaper Engine                 🕘 106 hrs 53 mins
