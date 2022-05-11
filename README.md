@@ -86,7 +86,7 @@ Kotlin     🕓 29 mins      █▍░░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 302 hrs 38 mins
 🎮 Forza Horizon 5                  🕘 275 hrs 42 mins
-🚓 Grand Theft Auto V               🕘 223 hrs 22 mins
+🚓 Grand Theft Auto V               🕘 223 hrs 23 mins
 💻 Wallpaper Engine                 🕘 106 hrs 53 mins
 🎮 Two Point Hospital               🕘 27 hrs 14 mins
 ```
