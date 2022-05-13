@@ -6,7 +6,7 @@
 [![Windows](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 
 [![AS](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square)](https://developer.android.com/studio)
-[![PC](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square)](https://www.jetbrains.com/pycharm/)
+[![IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat-square)](https://www.jetbrains.com/idea/)
 [![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/)
 [![XC](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white&style=flat-square)](https://developer.apple.com/xcode/)
 
