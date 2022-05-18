@@ -60,6 +60,8 @@
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=qhy040404&langs_count=5&&theme=dark)](https://github.com/qhy040404)
 
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=qhy040404&theme=react-dark)](https://github.com/qhy040404)
+
 ## 杂数据 / Other Stats
 ![Genshin Card](https://genshin-card.getloli.com/rand/318490747.png)
 
