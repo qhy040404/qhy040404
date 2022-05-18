@@ -56,30 +56,14 @@
 ## 统计数据 / Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/qhy040404)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=448&langs_count=10)](https://github.com/qhy040404)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=qhy040404&langs_count=5&&theme=dark)](https://github.com/qhy040404)
 
 ## 杂数据 / Other Stats
 ![Genshin Card](https://genshin-card.getloli.com/rand/318490747.png)
 
 <table>
 <tr>
-<td valign="top" width="50%">
-
-<!-- waka-box start -->
-📊 Weekly development breakdown
-```text
-C          🕓 2 hrs 8 mins █████▏░░░░░░░░░░░░░░░ 24.9%
-YAML       🕓 1 hr 52 mins ████▌░░░░░░░░░░░░░░░░ 21.7%
-Markdown   🕓 1 hr 12 mins ██▉░░░░░░░░░░░░░░░░░░ 14.0%
-Python     🕓 1 hr 4 mins  ██▋░░░░░░░░░░░░░░░░░░ 12.6%
-XML        🕓 50 mins      ██░░░░░░░░░░░░░░░░░░░  9.8%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
-
-[Powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
-
-</td>
-<td valign="top" width="50%">
+<td valign="top">
 
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
