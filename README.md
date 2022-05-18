@@ -57,7 +57,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/qhy040404)
 
 <a href="https://github.com/dongjji/github-stats-transparent">
- <img src="https://raw.githubusercontent.com/qhy040404/github-stats-transparent/output/generated/overview.svg" width=49.2% />
+ <img src="https://raw.githubusercontent.com/qhy040404/github-stats-transparent/output/generated/overview.svg" width=60% />
 </a>
 
 [![Another stats](https://raw.githubusercontent.com/qhy040404/github-stats-transparent/output/generated/overview.svg)](https://github.com/qhy040404)
