@@ -56,10 +56,6 @@
 ## 统计数据 / Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/qhy040404)
 
-<a href="https://github.com/qhy040404/github-stats">
- <img src="https://raw.githubusercontent.com/qhy040404/github-stats/master/generated/overview.svg#gh-dark-mode-only" width=60% />
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=448&langs_count=10)](https://github.com/qhy040404)
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=qhy040404&langs_count=5&&theme=dark)](https://github.com/qhy040404)
@@ -71,7 +67,12 @@
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
+<a href="https://github.com/qhy040404/github-stats">
+ <img src="https://raw.githubusercontent.com/qhy040404/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+</a>
+</td>
+<td valign="top" width="50%">
 
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
