@@ -56,7 +56,7 @@
 ## 统计数据 / Stats
 [![Anurag's GitHub stats](https://github-readme-stats-qhy040404.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/qhy040404)
 
-[![Top Langs](https://github-readme-stats-qhy040404.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=448&langs_count=10&exclude_repo=qhy040404/unlock-music)](https://github.com/qhy040404)
+[![Top Langs](https://github-readme-stats-qhy040404.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=448&langs_count=10&exclude_repo=unlock-music)](https://github.com/qhy040404)
 
 [![Wakatime](https://github-readme-stats-qhy040404.vercel.app/api/wakatime?username=qhy040404&langs_count=5&&theme=dark)](https://github.com/qhy040404)
 
