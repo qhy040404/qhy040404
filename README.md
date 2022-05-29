@@ -25,8 +25,6 @@
 - 老二刺猿了
 - Music
   - [![am](https://img.shields.io/badge/Apple%20Music-歌单-FA243C?logo=applemusic&logoColor=white&style=flat-square)](https://music.apple.com/cn/playlist/just-my-favorite/pl.u-8aAVZglHWya2xM)
-    > 平时也就瞎听听（甚至说平时我自己都没听这个歌单doge）
-    > 
     > Last Update: 2022/5/24
   - 虚拟歌姬  
     - VOCALOID（这个很久没摸了）
@@ -42,11 +40,11 @@
 ## 主要编程语言 / Main Programming Language
 - ![C++](https://img.shields.io/badge/-C++-00599c?logo=cplusplus&logoColor=white&style=flat-square)
 - ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white&style=flat-square)
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=kotlin&logoColor=white&style=flat-square)
 - Learning
   - ![C#](https://img.shields.io/badge/-C%23%20%2F%20C%20Sharp-239120?logo=csharp&logoColor=white&style=flat-square)
   - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
   - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-  - ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=kotlin&logoColor=white&style=flat-square)
 - To learn
   - ![JS](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat-square)
   - ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
