@@ -38,18 +38,18 @@
 [![Ubi](https://img.shields.io/badge/-Ubisoft%20Connect-000000?logo=ubisoft&logoColor=white&style=flat-square)](https://qhy040404.github.io/game)
 
 ## 主要编程语言 / Main Programming Language
-- ![C++](https://img.shields.io/badge/-C++-00599c?logo=cplusplus&logoColor=white&style=flat-square)
-- ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white&style=flat-square)
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=kotlin&logoColor=white&style=flat-square)
+- [![C++](https://img.shields.io/badge/-C++-00599c?logo=cplusplus&logoColor=white&style=flat-square)](https://isocpp.org/)
+- [![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
+- [![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=kotlin&logoColor=white&style=flat-square)](https://kotlinlang.org/)
 - Learning
   - ![C#](https://img.shields.io/badge/-C%23%20%2F%20C%20Sharp-239120?logo=csharp&logoColor=white&style=flat-square)
-  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
-  - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+  - [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)](https://html5.org/)
+  - [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)](https://developer.oracle.com/java/)
 - To learn
   - ![JS](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat-square)
-  - ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+  - [![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
 - Give up
-  - ![Swift](https://img.shields.io/badge/-Swift-808080?logo=swift&logoColor=white&style=flat-square):真学不会（网络请求部分）
+  - [![Swift](https://img.shields.io/badge/-Swift-808080?logo=swift&logoColor=white&style=flat-square)](https://www.swift.org/):真学不会（网络请求部分）
 
 ## 统计数据 / Stats
 [![Anurag's GitHub stats](https://github-readme-stats-qhy040404.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/qhy040404)
