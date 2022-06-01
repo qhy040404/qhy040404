@@ -25,7 +25,7 @@
 - 老二刺猿了
 - Music
   - [![am](https://img.shields.io/badge/Apple%20Music-歌单-FA243C?logo=applemusic&logoColor=white&style=flat-square)](https://music.apple.com/cn/playlist/just-my-favorite/pl.u-8aAVZglHWya2xM)
-    > Last Update: 2022/5/29
+    > Last Update: 2022/6/1
   - 虚拟歌姬  
     - VOCALOID（这个很久没摸了）
     - Synthesizer V（SVyyds）
