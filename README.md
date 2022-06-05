@@ -73,13 +73,13 @@
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-🎮 Steam playtime leaderboard
+🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 326 hrs 59 mins
-🎮 Forza Horizon 5                  🕘 275 hrs 42 mins
-🚓 Grand Theft Auto V               🕘 223 hrs 23 mins
-💻 Wallpaper Engine                 🕘 106 hrs 53 mins
-🎮 Two Point Hospital               🕘 27 hrs 14 mins
+🎮 Soundpad                         🕘 26 hrs 12 mins
+💻 Wallpaper Engine                 🕘 107 hrs 53 mins
+🎮 A Way Out                        🕘 0 hrs 22 mins
+🎮 3DMark                           🕘 11 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
