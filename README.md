@@ -78,7 +78,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 326 hrs 59 mins
 🎮 Forza Horizon 5                  🕘 275 hrs 42 mins
 🚓 Grand Theft Auto V               🕘 223 hrs 23 mins
-💻 Wallpaper Engine                 🕘 110 hrs 15 mins
+💻 Wallpaper Engine                 🕘 111 hrs 52 mins
 🎮 Two Point Hospital               🕘 27 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
