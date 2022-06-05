@@ -19,7 +19,6 @@ jobs:
       STEAM_ID: ${{ secrets.STEAM_ID }}
       UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
-      STEAM_OPTION: RECENT
 
     steps:
       - name: Set up Go 1.x
