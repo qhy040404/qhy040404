@@ -2,13 +2,11 @@
 
 > 天上星河转，人间帘幕垂
 
-[![macOS](https://img.shields.io/badge/macOS-Monterey-292e33?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/monterey/)
 [![Windows](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 
 [![AS](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square)](https://developer.android.com/studio)
 [![IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat-square)](https://www.jetbrains.com/idea/)
 [![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/)
-[![XC](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white&style=flat-square)](https://developer.apple.com/xcode/)
 
 [![mi11](https://img.shields.io/badge/Xiaomi-11-FF6900?logo=xiaomi&logoColor=white&style=flat-square)](https://www.mi.com/mi11)
 [![ipp](https://img.shields.io/badge/iPad-Pro%2011%27-000000?logo=apple&logoColor=white&style=flat-square)](https://www.apple.com/ipad-pro/)
@@ -48,8 +46,6 @@
 - To learn
   - ![JS](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat-square)
   - [![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
-- Give up
-  - [![Swift](https://img.shields.io/badge/-Swift-808080?logo=swift&logoColor=white&style=flat-square)](https://www.swift.org/):真学不会（网络请求部分）
 
 ## 统计数据 / Stats
 [![Anurag's GitHub stats](https://github-readme-stats-qhy040404.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/qhy040404)
