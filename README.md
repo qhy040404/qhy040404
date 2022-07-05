@@ -9,6 +9,7 @@
 [![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square)](https://visualstudio.microsoft.com/)
 
 [![mi11](https://img.shields.io/badge/Xiaomi-11-FF6900?logo=xiaomi&logoColor=white&style=flat-square)](https://www.mi.com/mi11)
+[![mi12sp](https://img.shields.io/badge/Xiaomi-12S%20Pro-FF6900?logo=xiaomi&logoColor=white&style=flat-square)](https://www.mi.com/mi12s-pro)
 [![ipp](https://img.shields.io/badge/iPad-Pro%2011%27-000000?logo=apple&logoColor=white&style=flat-square)](https://www.apple.com/ipad-pro/)
 
 
