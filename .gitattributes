@@ -1,3 +1,2 @@
-* text=auto
-
 *.md linguist-detectable=true
+*.md linguist-documentation=false
