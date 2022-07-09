@@ -39,6 +39,7 @@
 [![Epic](https://img.shields.io/badge/-Epic-000000?logo=epicgames&logoColor=white&style=flat-square)](https://qhy040404.github.io/game)
 [![GOG](https://img.shields.io/badge/-GOG%20Galaxy-000000?logo=gogdotcom&logoColor=white&style=flat-square)](https://qhy040404.github.io/game)
 [![Ubi](https://img.shields.io/badge/-Ubisoft%20Connect-000000?logo=ubisoft&logoColor=white&style=flat-square)](https://qhy040404.github.io/game)
+[![Battle.net](https://img.shields.io/badge/-Battle.net-000000?logo=battledotnet&logoColor=white&style=flat-square)](https://qhy040404.github.io/game)
 
 ## 主要编程语言 / Main Programming Language
 - [![C++](https://img.shields.io/badge/-C++-00599c?logo=cplusplus&logoColor=white&style=flat-square)](https://isocpp.org/)
