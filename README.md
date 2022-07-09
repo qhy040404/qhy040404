@@ -2,7 +2,7 @@
 
 > 天上星河转，人间帘幕垂
 
-[![Windows](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/windows-11)
+[![Windows](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 
 [![AS](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square)](https://developer.android.com/studio)
 [![IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat-square)](https://www.jetbrains.com/idea/)
