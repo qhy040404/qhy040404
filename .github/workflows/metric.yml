@@ -26,6 +26,7 @@ jobs:
           
           # Committer
           committer_token: ${{ secrets.QHYBOT_GITHUB_TOKEN }}
+          committer_message: 'Update metrics'
           
           # base
           base: header, activity, community, repositories, metadata
