@@ -92,3 +92,8 @@
 </td>
 </tr>
 </table>
+
+<details>
+  <summary>metrics</summary>
+  ![](github-metrics.svg)
+</details>
