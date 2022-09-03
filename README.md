@@ -95,5 +95,6 @@
 
 <details>
   <summary>metrics</summary>
+  
   ![](github-metrics.svg)
 </details>
