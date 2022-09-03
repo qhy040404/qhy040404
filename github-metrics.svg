@@ -535,16 +535,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 21.3kb of code in 89 edited files across 76 commits over last 14 days</small>
+                <small>estimation from 26.5kb of code in 89 edited files across 76 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="397.52457427661636" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="397.52457427661636" y="0" width="47.66855877059393" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="445.1931330472103" y="0" width="8.183580229821404" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="453.37671327703174" y="0" width="6.623286722968296" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="418.49500713266764" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="418.49500713266764" y="0" width="35.29447727735888" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="453.7894844100265" y="0" width="4.874668840432037" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.6641532504585" y="0" width="1.3358467495414714" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -556,20 +556,20 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>12.4 kB</div>
-                                <div>86.42%</div>
+                                <div>17.8 kB</div>
+                                <div>90.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                Shell
                             </div>
                             <small>
-                                <div>257 bytes</div>
-                                <div>1.78%</div>
+                                <div>208 bytes</div>
+                                <div>1.06%</div>
                             </small>
                         </div>
                     </section>
@@ -582,20 +582,20 @@
                                 Java
                             </div>
                             <small>
-                                <div>1.50 kB</div>
-                                <div>10.36%</div>
+                                <div>1.51 kB</div>
+                                <div>7.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Shell
+                                Dockerfile
                             </div>
                             <small>
-                                <div>208 bytes</div>
-                                <div>1.44%</div>
+                                <div>57 bytes</div>
+                                <div>0.29%</div>
                             </small>
                         </div>
                     </section>
@@ -675,7 +675,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2022, 03:13:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0-beta</span>
+                <span>Last updated 4 Sept 2022, 04:16:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
