@@ -1,0 +1,54 @@
+name: Metrics
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    if: ${{ github.actor != 'qhyBot' }}
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          # GH Token
+          token: ${{ secrets.GH_TOKEN }}
+          
+          # Options
+          user: qhy040404
+          template: classic
+          config_gemoji: yes
+          config_timezone: Asia/Shanghai
+          retries: 3
+          retries_delay: 300
+          use_prebuilt_image: yes
+          
+          # Committer
+          committer_token: ${{ secrets.QHYBOT_GITHUB_TOKEN }}
+          
+          # base
+          base: header, activity, community, repositories, metadata
+          repositories_forks: no
+          repositories_affiliations: owner
+          repositories_skipped: qhy040404/qhy040404
+          
+          # Language plugin
+          plugin_languages: yes
+          plugin_languages_skipped: unlock-music
+          plugin_languages_ignored: 'inno setup'
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          
+          # Reactions plugin
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_days: 90
+          plugin_reactions_details: count
+          
+          # Followup plugin
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          
+          # Traffic plugin
+          plugin_traffic: yes
