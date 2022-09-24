@@ -32,6 +32,7 @@
   - 虚拟歌姬  
     - VOCALOID（这个很久没摸了）
     - Synthesizer V（SVyyds）
+    - ACE（“一辆快的很邪门的破自行车”）
 - Games
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
