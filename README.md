@@ -48,7 +48,7 @@
 - [![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=kotlin&logoColor=white&style=flat-square)](https://kotlinlang.org/)
 - [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)](https://developer.oracle.com/java/)
 - Learning
-  - ![C#](https://img.shields.io/badge/-C%23%20%2F%20C%20Sharp-239120?logo=csharp&logoColor=white&style=flat-square)
+  - ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat-square)
   - [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)](https://html5.org/)
   - [![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
   - ![JS](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat-square)
