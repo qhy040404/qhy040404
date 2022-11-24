@@ -82,7 +82,7 @@
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 448 hrs 46 mins
+🔫 Counter-Strike: Global Offensive 🕘 449 hrs 34 mins
 🎮 Forza Horizon 5                  🕘 280 hrs 25 mins
 🚓 Grand Theft Auto V               🕘 228 hrs 24 mins
 💻 Wallpaper Engine                 🕘 118 hrs 58 mins
