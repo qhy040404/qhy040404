@@ -1,11 +1,8 @@
 name: Update Steam Playtime
-
 on:
   schedule:
     - cron: "1 */2 * * *"
-
   workflow_dispatch:
-
 jobs:
   build:
     name: Update-Steam-Playtime
@@ -17,7 +14,6 @@ jobs:
       STEAM_ID: ${{ secrets.STEAM_ID }}
       UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
-
     steps:
       - name: Set up Go 1.x
         uses: actions/setup-go@v3
