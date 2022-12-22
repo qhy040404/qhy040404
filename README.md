@@ -86,7 +86,7 @@
 🎮 Forza Horizon 5                  🕘 283 hrs 42 mins
 🚓 Grand Theft Auto V               🕘 228 hrs 24 mins
 💻 Wallpaper Engine                 🕘 126 hrs 17 mins
-🎮 Soundpad                         🕘 36 hrs 12 mins
+🎮 Soundpad                         🕘 38 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
