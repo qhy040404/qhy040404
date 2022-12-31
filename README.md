@@ -85,7 +85,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 472 hrs 29 mins
 🎮 Forza Horizon 5                  🕘 283 hrs 42 mins
 🚓 Grand Theft Auto V               🕘 228 hrs 24 mins
-💻 Wallpaper Engine                 🕘 126 hrs 52 mins
+💻 Wallpaper Engine                 🕘 127 hrs 22 mins
 🎮 Soundpad                         🕘 40 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
