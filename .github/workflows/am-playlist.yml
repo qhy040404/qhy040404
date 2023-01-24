@@ -26,7 +26,7 @@ jobs:
           git_commit_gpgsign: true
 
       - name: Update playlist
-        uses: qhy040404/am-update-time@v1.0.2
+        uses: qhy040404/am-update-time@v1.0.3
         with:
           playlist: 'https://music.apple.com/cn/playlist/just-my-favorite/pl.u-8aAVZglHWya2xM'
           keyword: 'Last Update: '
