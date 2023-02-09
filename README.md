@@ -32,7 +32,7 @@
 - 老二刺猿了
 - Music
   - [![am][am-logo]][am-url]
-    > Last Update: 2023/01/28
+    > Last Update: 2023/02/08
   - 虚拟歌姬  
     - VOCALOID（这个很久没摸了）
     - Synthesizer V（SVyyds）
