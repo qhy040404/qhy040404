@@ -56,7 +56,6 @@
   - [![HTML][html-logo]][html-url]
   - [![TS][ts-logo]][ts-url]
   - ![JS][js-logo]
-  - [![R][r-logo]][r-url]
 
 ## 统计数据 / Stats
 [![Anurag's GitHub stats][stat]][github-url]
@@ -159,8 +158,6 @@
 [ts-logo]:https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square
 [ts-url]:https://www.typescriptlang.org/
 [js-logo]:https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=white&style=flat-square
-[r-logo]:https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square
-[r-url]:https://www.r-project.org/
 
 [stat]:https://github-readme-stats-qhy040404.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark
 [lang]:https://github-readme-stats-qhy040404.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=448&langs_count=10&exclude_repo=unlock-music&hide=inno%20setup
