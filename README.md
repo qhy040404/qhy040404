@@ -37,9 +37,9 @@
   - [![am][am-logo]][am-url]
     > Last Update: 2023/03/17
   - 虚拟歌姬  
-    - VOCALOID（这个很久没摸了）
-    - Synthesizer V（SVyyds）
-    - ACE（“一辆快的很邪门的破自行车”）
+    - VOCALOID
+    - Synthesizer V
+    - ACE
 - Games
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
