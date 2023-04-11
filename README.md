@@ -35,7 +35,7 @@
 - 老二刺猿了
 - Music
   - [![am][am-logo]][am-url]
-    > Last Update: 2023/04/03
+    > Last Update: 2023/04/10
   - 虚拟歌姬  
     - VOCALOID
     - Synthesizer V
