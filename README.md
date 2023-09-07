@@ -18,6 +18,7 @@
 [![mi12sp][mi12sp-logo]][mi12sp-url]
 
 [![ipp][ipp-logo]][ipp-url]
+[![switch][switch-logo]][switch-url]
 
 ## 简介 / Introduction
 - 老废物的github首页
@@ -103,12 +104,12 @@
   ![](github-metrics.svg)
 </details>
 
-[win-logo]:https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=microsoft&logoColor=white
+[win-logo]:https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=white
 [win-url]:https://www.microsoft.com/windows/windows-11
 [android-logo]:https://img.shields.io/badge/Android-13-3DDC84?style=flat-square&logo=android&logoColor=white
 [android-url]:https://www.android.com/
-[ipados-logo]:https://img.shields.io/badge/iPadOS-16-000000?style=flat-square&logo=apple&logoColor=white
-[ipados-url]:https://www.apple.com/ipados/ipados-16/
+[ipados-logo]:https://img.shields.io/badge/iPadOS-17-000000?style=flat-square&logo=apple&logoColor=white
+[ipados-url]:https://www.apple.com/ipados/ipados-17/
 
 [as-logo]:https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square
 [as-url]:https://developer.android.com/studio
@@ -129,6 +130,8 @@
 
 [ipp-logo]:https://img.shields.io/badge/iPad-Pro%2011%27%20%282021%29-000000?logo=apple&logoColor=white&style=flat-square
 [ipp-url]:https://www.apple.com/ipad-pro/
+[switch-logo]:https://img.shields.io/badge/Nintendo-Switch%20OLED-E60012?logo=nintendoswitch&logoColor=white&style=flat-square
+[switch-url]:https://www.nintendo.com/switch/
 
 [TSB]:https://github.com/Two-Super-Boss
 
