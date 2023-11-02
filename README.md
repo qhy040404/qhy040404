@@ -4,9 +4,9 @@
 
 [![Windows][win-logo]][win-url]
 [![Android][android-logo]][android-url]
-[![iOS][ios-logo][ios-url]]
+[![iOS][ios-logo]][ios-url]
 [![iPadOS][ipados-logo]][ipados-url]
-[![watchOS][watchos-logo][watchos-url]]
+[![watchOS][watchos-logo]][watchos-url]
 
 [![AS][as-logo]][as-url]
 [![IDEA][idea-logo]][idea-url]
@@ -18,8 +18,10 @@
 ![mi9][mi9-logo]
 [![mi11][mi11-logo]][mi11-url]
 [![mi12sp][mi12sp-logo]][mi12sp-url]
+[![ip15pm][ip15pm-logo]][ip15pm-url]
 
 [![ipp][ipp-logo]][ipp-url]
+[![s9][watch9-logo]][watch9-url]
 [![switch][switch-logo]][switch-url]
 
 ## 简介 / Introduction
@@ -108,7 +110,7 @@
 
 [win-logo]:https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=white
 [win-url]:https://www.microsoft.com/windows/windows-11
-[android-logo]:https://img.shields.io/badge/Android-13-3DDC84?style=flat-square&logo=android&logoColor=white
+[android-logo]:https://img.shields.io/badge/Android-14-3DDC84?style=flat-square&logo=android&logoColor=white
 [android-url]:https://www.android.com/
 [ios-logo]:https://img.shields.io/badge/iOS-17-000000?style=flat-square&logo=apple&logoColor=white
 [ios-url]:https://www.apple.com/ios/ios-17/
@@ -133,9 +135,13 @@
 [mi11-url]:https://www.mi.com/mi11
 [mi12sp-logo]:https://img.shields.io/badge/Xiaomi-12S%20Pro-FF6900?logo=xiaomi&logoColor=white&style=flat-square
 [mi12sp-url]:https://www.mi.com/mi12s-pro
+[ip15pm-logo]:https://img.shields.io/badge/iPhone-15%20Pro%20Max-655D6F?style=flat&logo=apple&logoColor=ffffff
+[ip15pm-url]:https://www.apple.com/iphone-15-pro/
 
 [ipp-logo]:https://img.shields.io/badge/iPad-Pro%2011%27%20%282021%29-000000?logo=apple&logoColor=white&style=flat-square
 [ipp-url]:https://www.apple.com/ipad-pro/
+[watch9-logo]:https://img.shields.io/badge/Watch-Series%209-000000?style=flat&logo=apple&logoColor=ffffff
+[watch9-url]:https://www.apple.com/apple-watch-series-9/
 [switch-logo]:https://img.shields.io/badge/Nintendo-Switch%20OLED-E60012?logo=nintendoswitch&logoColor=white&style=flat-square
 [switch-url]:https://www.nintendo.com/switch/
 
