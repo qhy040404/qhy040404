@@ -4,7 +4,9 @@
 
 [![Windows][win-logo]][win-url]
 [![Android][android-logo]][android-url]
+[![iOS][ios-logo][ios-url]]
 [![iPadOS][ipados-logo]][ipados-url]
+[![watchOS][watchos-logo][watchos-url]]
 
 [![AS][as-logo]][as-url]
 [![IDEA][idea-logo]][idea-url]
@@ -108,8 +110,12 @@
 [win-url]:https://www.microsoft.com/windows/windows-11
 [android-logo]:https://img.shields.io/badge/Android-13-3DDC84?style=flat-square&logo=android&logoColor=white
 [android-url]:https://www.android.com/
+[ios-logo]:https://img.shields.io/badge/iOS-17-000000?style=flat-square&logo=apple&logoColor=white
+[ios-url]:https://www.apple.com/ios/ios-17/
 [ipados-logo]:https://img.shields.io/badge/iPadOS-17-000000?style=flat-square&logo=apple&logoColor=white
 [ipados-url]:https://www.apple.com/ipados/ipados-17/
+[watchos-logo]:https://img.shields.io/badge/watchOS-10-000000?style=flat-square&logo=apple&logoColor=white
+[watchos-url]:https://www.apple.com/watchos/watchos-10/
 
 [as-logo]:https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square
 [as-url]:https://developer.android.com/studio
