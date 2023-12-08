@@ -1,4 +1,4 @@
-# Hello World:wave:
+# Hello World :wave:
 
 > 天上星河转，人间帘幕垂
 
