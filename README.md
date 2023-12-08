@@ -185,5 +185,5 @@
 
 [stat]:https://github-readme-stats-qhy040404.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark
 [lang]:https://github-readme-stats-qhy040404.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=448&langs_count=10&exclude_repo=unlock-music&hide=inno%20setup
-[graph]:https://github-readme-activity-graph.cyclic.app/graph?username=qhy040404&theme=react-dark
+[graph]:https://github-readme-activity-graph-qhy040404.vercel.app/graph?username=qhy040404&theme=react-dark
 [genshin-card]:https://genshin-card.himiku.com/detail/rand/318490747.png
