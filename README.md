@@ -59,11 +59,10 @@
 - [![Python][py-logo]][py-url]
 - [![Kotlin][kt-logo]][kt-url]
 - [![Java][java-logo]][java-url]
-- Learning
-  - ![C#][cs-logo]
-  - [![HTML][html-logo]][html-url]
-  - [![TS][ts-logo]][ts-url]
-  - ![JS][js-logo]
+- ![C#][cs-logo]
+- [![HTML][html-logo]][html-url]
+- [![TS][ts-logo]][ts-url]
+- ![JS][js-logo]
 
 ## 统计数据 / Stats
 [![Anurag's GitHub stats][stat]][github-url]
