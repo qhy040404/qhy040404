@@ -28,7 +28,7 @@ jobs:
       - name: Update playlist
         uses: qhy040404/am-update-time@v1.0.6
         with:
-          playlist: 'https://music.apple.com/cn/playlist/just-my-favorite/pl.u-8aAVZglHWya2xM'
+          playlist: 'https://music.apple.com/cn/playlist/favorite-songs/pl.u-doUdaBmbR'
           keyword: 'Last Update: '
 
       - name: Commit changes

@@ -50,7 +50,7 @@
 
 [am-logo]:https://img.shields.io/badge/Apple%20Music-Playlist-FA243C?logo=applemusic&logoColor=white&style=flat-square
 
-[am-url]:https://music.apple.com/cn/playlist/just-my-favorite/pl.u-8aAVZglHWya2xM
+[am-url]:https://music.apple.com/cn/playlist/favorite-songs/pl.u-doUdaBmbR
 
 [stats-href]:https://github.com/qhy040404/github-stats
 
