@@ -1,7 +1,7 @@
 > 天上星河转，人间帘幕垂
 
 [![am][am-logo]][am-url]
-> Last Update: 2024/05/21
+> Last Update: 2024/06/04
 
 [![Anurag's GitHub stats][stat]][github-url]
 
