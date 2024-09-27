@@ -62,4 +62,4 @@
 
 [graph]:https://github-readme-activity-graph-qhy040404.vercel.app/graph?username=qhy040404&theme=react-dark
 
-[genshin-card]:https://genshincard.qhy04.com/rand/318490747.png
+[genshin-card]:https://genshincard.qhy04.com/detail/rand/318490747.png
