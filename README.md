@@ -23,7 +23,7 @@
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🔫 Counter-Strike 2                 🕘 551 hrs 45 mins
+🔫 Counter-Strike 2                 🕘 552 hrs 34 mins
 🎮 Forza Horizon 5                  🕘 289 hrs 55 mins
 🚓 Grand Theft Auto V               🕘 228 hrs 24 mins
 💻 Wallpaper Engine                 🕘 127 hrs 51 mins
