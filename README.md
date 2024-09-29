@@ -66,4 +66,4 @@
 
 [genshin-card]:https://hoyocard.qhy04.com/gs/detail/rand/318490747.png
 
-[genshin-card]:https://hoyocard.qhy04.com/sr/detail/rand/318490747.png
+[starrail-card]:https://hoyocard.qhy04.com/sr/detail/rand/318490747.png
