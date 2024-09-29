@@ -11,6 +11,8 @@
 
 ![Genshin Card][genshin-card]
 
+![Starrail Card][starrail-card]
+
 <table>
 <tr>
 <td style="vertical-align: top;width: 50%">
@@ -62,4 +64,6 @@
 
 [graph]:https://github-readme-activity-graph-qhy040404.vercel.app/graph?username=qhy040404&theme=react-dark
 
-[genshin-card]:https://genshincard.qhy04.com/detail/rand/318490747.png
+[genshin-card]:https://hoyocard.qhy04.com/gs/detail/rand/318490747.png
+
+[genshin-card]:https://hoyocard.qhy04.com/sr/detail/rand/318490747.png
