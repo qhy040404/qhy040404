@@ -28,7 +28,7 @@
 🔫 Counter-Strike 2                 🕘 552 hrs 34 mins
 🎮 Forza Horizon 5                  🕘 289 hrs 55 mins
 🚓 Grand Theft Auto V               🕘 228 hrs 24 mins
-💻 Wallpaper Engine                 🕘 127 hrs 51 mins
+💻 Wallpaper Engine                 🕘 127 hrs 56 mins
 🎮 Terraria                         🕘 64 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
