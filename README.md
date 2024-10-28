@@ -64,7 +64,7 @@
 
 [lang]:https://github-readme-stats-qhy040404.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=448&langs_count=10&exclude_repo=unlock-music&hide=inno%20setup
 
-[waka]:https://github-readme-stats-qhy040404.vercel.app/api/wakatime?username=qhy040404&theme=dark
+[waka]:https://github-readme-stats-qhy040404.vercel.app/api/wakatime?username=qhy040404&theme=dark&layout=compact
 
 [graph]:https://github-readme-activity-graph-qhy040404.vercel.app/graph?username=qhy040404&theme=react-dark
 
