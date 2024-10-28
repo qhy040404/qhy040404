@@ -7,6 +7,8 @@
 
 [![Top Langs][lang]][github-url]
 
+[![Harlok's WakaTime stats][waka]][github-url]
+
 [![Activity Graph][graph]][github-url]
 
 ![Genshin Card][genshin-card]
@@ -61,6 +63,8 @@
 [stat]:https://github-readme-stats-qhy040404.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark
 
 [lang]:https://github-readme-stats-qhy040404.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=448&langs_count=10&exclude_repo=unlock-music&hide=inno%20setup
+
+[waka]:https://github-readme-stats-qhy040404.vercel.app/api/wakatime?username=qhy040404
 
 [graph]:https://github-readme-activity-graph-qhy040404.vercel.app/graph?username=qhy040404&theme=react-dark
 
