@@ -60,13 +60,13 @@
 
 [stats-src]:https://raw.githubusercontent.com/qhy040404/github-stats/master/generated/overview.svg#gh-dark-mode-only
 
-[stat]:https://github-readme-stats-qhy040404.vercel.app/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark
+[stat]:https://github-stats.qhy04.cc/api?username=qhy040404&count_private=true&include_all_commits=true&show_icons=true&theme=dark
 
-[lang]:https://github-readme-stats-qhy040404.vercel.app/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=448&langs_count=10&exclude_repo=unlock-music&hide=inno%20setup
+[lang]:https://github-stats.qhy04.cc/api/top-langs/?username=qhy040404&layout=compact&theme=dark&card_width=448&langs_count=10&exclude_repo=unlock-music&hide=inno%20setup
 
-[waka]:https://github-readme-stats-qhy040404.vercel.app/api/wakatime?username=qhy040404&theme=dark&layout=compact
+[waka]:https://github-stats.qhy04.cc/api/wakatime?username=qhy040404&theme=dark&layout=compact
 
-[graph]:https://github-readme-activity-graph-qhy040404.vercel.app/graph?username=qhy040404&theme=react-dark
+[graph]:https://github-graph.qhy04.cc/graph?username=qhy040404&theme=react-dark
 
 [genshin-card]:https://hoyocard.qhy04.com/gs/detail/rand/318490747.png
 
