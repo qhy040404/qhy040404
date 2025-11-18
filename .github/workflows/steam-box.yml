@@ -22,7 +22,7 @@ jobs:
         id: go
 
       - name: Checkout
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5.0.1
         with:
           token: ${{ secrets.QHYBOT_GITHUB_TOKEN }}
 
